@@ -1,5 +1,5 @@
 # 👋 Hola, soy Eskarlenht Rodríguez
-Sobre mi: 
+**Sobre mi**: 
 Profesional de **QA Testing** con experiencia en **pruebas manuales, automatización básica y pruebas de software**. Apasionada por detectar errores, optimizar procesos y garantizar que los productos cumplan los más altos estándares de calidad.
 
 🔭 Actualmente estoy trabajando en mejorar mis habilidades en Python, creando variables, funciones, bucles y estructuras de datos, mientras gestiono y colaboro en proyectos usando Git y GitHub como parte del bootcamp QA tester de Tripleten. 
